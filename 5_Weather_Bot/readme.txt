@@ -1,7 +1,3 @@
-https://home.openweathermap.org/
-alesster
-pogoda_09
-
 My API Key
 Create key => name: myAPI_key => Generate
 
