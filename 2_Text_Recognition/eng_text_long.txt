@@ -1,0 +1,4 @@
+Classical information is, of course, not the only static resource available in quantum
+mechanics. Quantum states themselves are a natural static resource, even more natural
+than classical information. Let’s look at a different quantum analogue of Shannon’s coding
+theorems, this time involving the compression and decompression of quantum states.

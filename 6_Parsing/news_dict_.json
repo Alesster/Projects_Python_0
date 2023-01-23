@@ -1,0 +1,92 @@
+{
+    "535920": {
+        "article_date_timestamp": 1674235200.0,
+        "article_title": "Личные данные 35 тысяч пользователей PayPal были похищены",
+        "article_url": "https://www.securitylab.ru/news/535920.php",
+        "article_desc": "Масштабная утечка, как ни странно, произошла не по вине сервиса."
+    },
+    "535918": {
+        "article_date_timestamp": 1674232800.0,
+        "article_title": "Возможности нового Android-трояна «Hook» поражают воображение",
+        "article_url": "https://www.securitylab.ru/news/535918.php",
+        "article_desc": "Киберпреступники получат полный контроль над заражённым смартфоном."
+    },
+    "535917": {
+        "article_date_timestamp": 1674231018.0,
+        "article_title": "Netflix запретит совместное использование аккаунтов",
+        "article_url": "https://www.securitylab.ru/news/535917.php",
+        "article_desc": "Опасно, но необходимо: чтобы не потерять пользователей, компания старается найти компромисс."
+    },
+    "535915": {
+        "article_date_timestamp": 1674229232.0,
+        "article_title": "Стала известна причина отмены 10 тыс. авиарейсов в США",
+        "article_url": "https://www.securitylab.ru/news/535915.php",
+        "article_desc": "Безответственный оператор системы «положил» всю авиационную сеть страны."
+    },
+    "535914": {
+        "article_date_timestamp": 1674227421.0,
+        "article_title": "Meta* заплатит очередной штраф за всплывающие уведомления WhatsApp",
+        "article_url": "https://www.securitylab.ru/news/535914.php",
+        "article_desc": "Компания поставила клиентам условие: дай нам свои данные - или не сможешь пользоваться WhatsApp."
+    },
+    "535916": {
+        "article_date_timestamp": 1674226965.0,
+        "article_title": "Privacy Day 2023 - приватность в дивном новом мире",
+        "article_url": "https://www.securitylab.ru/news/535916.php",
+        "article_desc": "Конференция Privacy Day 2023 пройдет 27 января 2023 года в формате онлайн."
+    },
+    "535913": {
+        "article_date_timestamp": 1674225300.0,
+        "article_title": "Атака программ-вымогателей парализовала работу британских ресторанов быстрого питания",
+        "article_url": "https://www.securitylab.ru/news/535913.php",
+        "article_desc": "Десятки тысяч человек остались голодными из-за проделок хакеров."
+    },
+    "535912": {
+        "article_date_timestamp": 1674223306.0,
+        "article_title": "Владелец самой дорогой коллекции NFT за несколько часов потерял все свои активы",
+        "article_url": "https://www.securitylab.ru/news/535912.php",
+        "article_desc": "Отсутствие элементарных мер кибербезопасности привело к потере всего состояния."
+    },
+    "535911": {
+        "article_date_timestamp": 1674221530.0,
+        "article_title": "Хакеры изменяют настройки DNS для перенаправления жертв на вредоносные сайты",
+        "article_url": "https://www.securitylab.ru/news/535911.php",
+        "article_desc": "Файл APK для Android, и фишинговый сайт для iOS – злоумышленники позаботились обо всех."
+    },
+    "535909": {
+        "article_date_timestamp": 1674219600.0,
+        "article_title": "Платёжные данные клиентов канадского ритейлера алкоголя слили в даркнет",
+        "article_url": "https://www.securitylab.ru/news/535909.php",
+        "article_desc": "Для похищения злоумышленники воспользовались электронными скиммерами."
+    },
+    "535910": {
+        "article_date_timestamp": 1674217857.0,
+        "article_title": "Российские компании столкнулись с новой схемой смс-мошенничества",
+        "article_url": "https://www.securitylab.ru/news/535910.php",
+        "article_desc": "Мошенники генерируют тысячи смс и вынуждают пользователей перегружать колл-центры компаний."
+    },
+    "535906": {
+        "article_date_timestamp": 1674213655.0,
+        "article_title": "Старейшая в мире почтовая служба Royal Mail с трудом восстанавливается после кибератаки",
+        "article_url": "https://www.securitylab.ru/news/535906.php",
+        "article_desc": "Записка о выкупе, распечатанная на взломанных принтерах компании, показала ещё одного игрока в этой партии."
+    },
+    "535904": {
+        "article_date_timestamp": 1674211836.0,
+        "article_title": "Cisco Talos: LNK-ярлыки стали чаще использоваться для заражения жертв",
+        "article_url": "https://www.securitylab.ru/news/535904.php",
+        "article_desc": "Роковое решение Microsoft побудило киберпреступников искать альтернативные методы заражения."
+    },
+    "535926": {
+        "article_date_timestamp": 1674243000.0,
+        "article_title": "Слёзы хакеров: доходы от программ-вымогателей стремительно падают",
+        "article_url": "https://www.securitylab.ru/news/535926.php",
+        "article_desc": "Всё больше жертв отказывается платить деньги за разблокировку данных."
+    },
+    "535922": {
+        "article_date_timestamp": 1674238574.0,
+        "article_title": "В России выросла стоимость \"пробива\" информации о гражданах",
+        "article_url": "https://www.securitylab.ru/news/535922.php",
+        "article_desc": "Сильнее всего выросла в цене услуга «пробива» в операторах связи — на 60%."
+    }
+}

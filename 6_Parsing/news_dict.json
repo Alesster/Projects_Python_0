@@ -1,0 +1,92 @@
+{
+    "535991": {
+        "article_date_timestamp": 1674512536.0,
+        "article_title": "Конец многолетней цензуре: Facebook и Instagram приказали пересмотреть запрет на обнаженную грудь",
+        "article_url": "https://www.securitylab.ru/news/535991.php",
+        "article_desc": "Мужчинам же это никто делать не запрещал."
+    },
+    "535985": {
+        "article_date_timestamp": 1674497411.0,
+        "article_title": "В России начался прием заявок на отсрочку от призыва для IT-специалистов",
+        "article_url": "https://www.securitylab.ru/news/535985.php",
+        "article_desc": "Теперь каждый сотрудник сможет подать данные самостоятельно через портал «Госуслуги»."
+    },
+    "535983": {
+        "article_date_timestamp": 1674494400.0,
+        "article_title": "Около 20 тысяч маршрутизаторов Cisco уязвимы для RCE-атак",
+        "article_url": "https://www.securitylab.ru/news/535983.php",
+        "article_desc": "Компания упорно не хочет закрывать брешь, мотивируя клиентов обновлять оборудование."
+    },
+    "535978": {
+        "article_date_timestamp": 1674492610.0,
+        "article_title": "Дайджест новых открытий в сфере искусственного интеллекта за прошлую неделю",
+        "article_url": "https://www.securitylab.ru/news/535978.php",
+        "article_desc": "ChatGPT обманул академиков, а маленький стартап создал конкурента ChatGPT."
+    },
+    "535977": {
+        "article_date_timestamp": 1674490800.0,
+        "article_title": "Домашние рыбки «ограбили» своего хозяина и слили данные его карты в сеть",
+        "article_url": "https://www.securitylab.ru/news/535977.php",
+        "article_desc": "Удивительно забавная история со счастливым концом."
+    },
+    "535976": {
+        "article_date_timestamp": 1674488948.0,
+        "article_title": "Самые интересные IT-новости за прошлую неделю",
+        "article_url": "https://www.securitylab.ru/news/535976.php",
+        "article_desc": "Индия будет удалять фейки из Интернета, а Азия заменяет людей роботами. Эти и другие события, которые повлияли на развитие IT-технологий в нашей подборке."
+    },
+    "535975": {
+        "article_date_timestamp": 1674487035.0,
+        "article_title": "Дайджест самых значимых событий в сфере ИБ прошлой недели",
+        "article_url": "https://www.securitylab.ru/news/535975.php",
+        "article_desc": "Утечка личных данных беженцев и террористов, а также война картелей хакеров."
+    },
+    "535974": {
+        "article_date_timestamp": 1674485400.0,
+        "article_title": "Китайская программа искусственного интеллекта представляет угрозу",
+        "article_url": "https://www.securitylab.ru/news/535974.php",
+        "article_desc": "Директор ФБР высказался о перспективах развития ИИ в Китае, прогнозы неутешительные."
+    },
+    "535972": {
+        "article_date_timestamp": 1674481800.0,
+        "article_title": "Хакеры удивляют: вредоносный код «озолотил» своих создателей",
+        "article_url": "https://www.securitylab.ru/news/535972.php",
+        "article_desc": "Мошенническая кампания Vastflux продемонстрировала, как изобретательны могут быть злоумышленники."
+    },
+    "535971": {
+        "article_date_timestamp": 1674478806.0,
+        "article_title": "Indeed PAM. Сценарии и практика применения. Организация соответствия ГОСТ 57580.1 и 187-ФЗ (КИИ)",
+        "article_url": "https://www.securitylab.ru/news/535971.php",
+        "article_desc": "Компания «Нева-Автоматизация» совместно с Axoft приглашает на вебинар, который пройдет 25 января в 12:00 (мск)."
+    },
+    "535969": {
+        "article_date_timestamp": 1674476400.0,
+        "article_title": "Взломали издателя видеоигр Riot Games",
+        "article_url": "https://www.securitylab.ru/news/535969.php",
+        "article_desc": "Личные данные геймеров под угрозой?"
+    },
+    "535968": {
+        "article_date_timestamp": 1674470100.0,
+        "article_title": "Китайские хакеры атаковали европейские государственные учреждения",
+        "article_url": "https://www.securitylab.ru/news/535968.php",
+        "article_desc": "Брешь в защите сетевых устройств Fortinet поставила под удар ряд правительственных учреждений."
+    },
+    "535965": {
+        "article_date_timestamp": 1674467385.0,
+        "article_title": "ChatGPT успешно сдал экзамен по программе MBA",
+        "article_url": "https://www.securitylab.ru/news/535965.php",
+        "article_desc": "Искусственный интеллект снизит «ценность образования»"
+    },
+    "535964": {
+        "article_date_timestamp": 1674466061.0,
+        "article_title": "В России за год Telegram впервые превзошел WhatsApp по объему трафика",
+        "article_url": "https://www.securitylab.ru/news/535964.php",
+        "article_desc": "Его доля в общем объеме составила 60-80 процентов"
+    },
+    "535963": {
+        "article_date_timestamp": 1674396460.0,
+        "article_title": "Авиакомпания США случайно опубликовала «Список запрещенных для полетов» на незащищенном сервере",
+        "article_url": "https://www.securitylab.ru/news/535963.php",
+        "article_desc": "Всего в списке более 1,5 миллиона записей."
+    }
+}

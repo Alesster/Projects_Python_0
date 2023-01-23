@@ -1,0 +1,6 @@
+cffi==1.15.1
+cryptography==39.0.0
+pyAesCrypt==6.0.0
+pycparser==2.21
+PyPDF2==3.0.1
+typing_extensions==4.4.0
