@@ -1,2 +1,2 @@
-open_weather_token = "c9e19d95161c96103ad841db77002801"
-tg_bot_token = "5858539667:AAEvu37w54wozrHNnmiUS7BBqn3_PVOp5vY"
+open_weather_token = "your weather token"
+tg_bot_token = "your token"
